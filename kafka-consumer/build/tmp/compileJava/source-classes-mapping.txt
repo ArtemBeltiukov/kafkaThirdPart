@@ -1,4 +1,0 @@
-com/example/KafkaConsumer.java
- com.example.KafkaConsumer
-com/example/services/ConsumerService.java
- com.example.services.ConsumerService
