@@ -1,0 +1,8 @@
+
+A
+java:S2629"$Invoke method(s) only conditionally.(³¯²8ú¢½ÿ/
+l	java:S116"PRename this field "TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¡Ê£8ÿ¢½ÿ/
+>
+java:S1170"!Make this final field static too.(Ÿ¡Ê£8£½ÿ/
+~
+java:S3457"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(³¯²8–£½ÿ/
